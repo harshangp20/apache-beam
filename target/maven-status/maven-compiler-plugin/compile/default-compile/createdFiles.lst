@@ -1,0 +1,17 @@
+count/CountPCollection.class
+test/Test.class
+pardo/CustFilter.class
+pardo/ParDoExe.class
+filter/Filter.class
+mapElementFunctionExample/User.class
+groupByKey/GroupByKeyExe.class
+count/CountPCollection$1.class
+filter/FilterExample.class
+option/Options.class
+inMemory/InMemoryExample.class
+groupByKey/StringToKV.class
+mapElementFunctionExample/MapElementFunctionExample.class
+model/CustomerEntity.class
+groupByKey/KVToString.class
+fileExample/LocalFileExample.class
+mapElementExample/MapElementExample.class
